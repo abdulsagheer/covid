@@ -25,7 +25,7 @@ SECRET_KEY = 'ht-u_qyt81s(+f4x7pc9qq)z9+(56w8(8s*f3h-_j+w7jrdrud'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["https://warm-stream-35344.herokuapp.com"]
 
 
 # Application definition
